@@ -1,4 +1,4 @@
-# P5 Skeleton
+# Tic-Tac-Toe demonstration
 
-This is a basically empty project (it draws a red window) in case you're doing Graphics for P5 and don't want to cannibalize one of your older projects.
+This is a simple, 2D Tic-Tac-Toe game with states for both cells and the overall gameplay represented as enums, which is a new Java feature for us that is useful for turn based games and managing game states.
 
